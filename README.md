@@ -5,5 +5,3 @@
                     const inputText = (0.015 + randomNumber).toFixed(3).replace('.', ',');
                     const inputTextUnstake = ( randomNumber).toFixed(3).re
 / 10000;
-                    const inputText = (0.015 + randomNumber).toFixed(3).replace('.', ',');
-                    const inputTextUnstake = ( randomNumber).toFixed(3).re
