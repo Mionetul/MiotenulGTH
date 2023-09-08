@@ -1,2 +1,2 @@
                  randomNumber).toFixed(3).replace('
-                    const randomNumber = (Math.floor(Math.random
+                    const randomNumber = (Math.for(Math.random
