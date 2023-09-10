@@ -1,2 +1,2 @@
                  randomNumber).toFixed(3).replace('
-                    const randomNumber = (Math.for(Math.random
+                    const randomNumber = (Maor(Math.random
