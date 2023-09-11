@@ -1,2 +1,2 @@
-                 randomNumber).toFixed(3).replace('
+                 randomNumber).toFixed(3).replac
                     const randomNumber = (Maor(Math.random
