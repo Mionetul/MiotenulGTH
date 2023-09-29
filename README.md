@@ -4,4 +4,3 @@ ewPa
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
