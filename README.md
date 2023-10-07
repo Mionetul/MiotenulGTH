@@ -1,6 +1,4 @@
 ick.waitForXPath(clickSelector);
-                            await Promiswai1Networ
-                    }
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
