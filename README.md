@@ -11,8 +11,7 @@ count_number;= data.profiles[i].id;
 
 
 iles[i].id;
-iles[i]
-        const accountNumber = data.profiles[password;   
+iles[i]d;   
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
