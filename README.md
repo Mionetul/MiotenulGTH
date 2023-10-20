@@ -1,6 +1,6 @@
 ick.waitForXPath(clickSelector);
 
-StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;bc_number;
+StylishDemon        const profi
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
