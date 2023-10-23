@@ -1,8 +1,7 @@
 ick.waitForXPath(clickSelector);
 
 StylishDemon        const profi
-        const profilePassword = da.profile[i].password;   
-count_number;= data.profiles[i].id;
+        const profilePassword =
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.pri].pa
