@@ -1,7 +1,6 @@
 ick.waitForXPath(clickSelector);
 fi
-        const profilePassword =
-        const accountNumber = daa.profiles[i].account_number;
+        const profilePassw.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.pri].pa
                         await page4.click(elementSelector4);
