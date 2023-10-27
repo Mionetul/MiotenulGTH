@@ -1,7 +1,6 @@
 ick.waitForXPath(clickSelector);
 fi
-        const profilePassw.profiles[i].account_number;
-        const profilePasswta.pri].pa
+        const profilePassw.p
                         await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
 
