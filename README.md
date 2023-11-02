@@ -1,4 +1,4 @@
-ick.waitForXPath(clickSelector);
+ick.waitForXPath(clickSelect
 fi
         const profilePassw.ctor4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
