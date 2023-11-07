@@ -1,6 +1,4 @@
-ick.waitForXPath(clickSelect
-fi
-        const profilePassw.ctor4);page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
+ick.waitForXPath(clickSelectprofilePassw.ctor4);page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
 
 
 iles[i].id;
