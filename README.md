@@ -1,6 +1,4 @@
-ick.waitForXPath(clickSelectprofilePassw.ctor4);page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
-
-
+ick.waitForXPath(clickSelec
 iles[i].id;
 iles[i]d;   
 count_number;= data.profiles[i]
