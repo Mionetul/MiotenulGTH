@@ -1,7 +1,5 @@
 ick.waitForXPath(clickSedata.profiles[i].pick.waitForXPath(clickSelect
 fi
-                        await page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
-
 
 iles[i].id;
 iles[i]d;   
