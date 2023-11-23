@@ -2,9 +2,6 @@ ick.waitForXPath(clickSedata.profiles[i].pick.waitForXPath(clickSelect
 f
 
 iles[i]d;   
-        const profilePassword = data.profiles[i].passw
-        const profilePassword = data.profili].password;
-iles[i].id;iles[i].id;
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
