@@ -1,4 +1,4 @@
-ick.waitForXPath(clickSedata.profiles[i].pick.waitForXPath(clickSelect
+ick.waitForXPath(clickSeda
 f
 
 iles[i]d;   
