@@ -1,5 +1,4 @@
-ick.waitForXPath(clickSeda
-f
+
 
 iles[i]d;   
 count_number;= data.profiles[i]
