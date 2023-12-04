@@ -1,8 +1,6 @@
 
 
-        const accountNumber = daata.profili].pass
-        const accountNumber = data.profiles[i].]Idle(l
-                        await page4.waitForSelector(elementSelector5
+        const accountNumber = daata.profili].passector5
                         await page4.click(elementSelector5);
                         await page4.waitForNetworkIdle(
         const accountNumber = data.profiles[i].account_number;
