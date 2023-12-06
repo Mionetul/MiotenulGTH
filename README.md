@@ -1,7 +1,4 @@
-
-
-        const accountNumber = daata.profili].passectctor5);
-                        await page4.waitForNetworkIdle(
+e(
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profiles[es[i].password;        
                         await page4.waitForNetworkIdle(l
