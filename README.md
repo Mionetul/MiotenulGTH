@@ -5,9 +5,7 @@ e(
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
                         await page4.waitForNetworkIdle();
-                        await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
-StylishDemon        const profileId = data.iles[i        const prof# Stylish
-(resolve, 1500));browser.newPappsharde
+                        await page4.waitForNetworkIdle();ta.profiles
 
 
 iles[i].id;
