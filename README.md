@@ -1,9 +1,5 @@
 e(
-        const accountNumber = data.profiles[i].account_entSelector5
-                        await page4.click(elementSelector5);
-                        await page4.waitForNetworkIdle();
-                        await page4.waitForNetworkIdle();ta.profiles
-
+        const accountNumber = data.profiles[i]
 
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
