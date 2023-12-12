@@ -1,7 +1,6 @@
 e(
         const accountNumber = data.profiles[i]
-
-        const accountNumber = data.profiles[i].account_number;
+umber;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
