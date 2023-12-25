@@ -3,7 +3,7 @@ e(
 umber;.profile[i].password;   
 count_number;= data.profiles[i]
         const accour = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].passw
+        const profilePword = data.profiles[i].passw
         const profilePassword = data.profili].password;
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
