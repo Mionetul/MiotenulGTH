@@ -6,9 +6,7 @@ umber;.profile[i].passwors[i]
         const profilePassword = data.profili].password;
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
-                        await page4.waitForNetworkIdle();        const accountNumber = data.profiles[i]
-umber;.prof
-count_number;= data.profiles[i]
+                        await page4.waitForNetworkIdle();        const accountNumber = data.profil
         const accour = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
